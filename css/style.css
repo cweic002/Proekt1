@@ -1,0 +1,23 @@
+body{
+color:#5d49dd;
+background-color:#fff;
+background-image: url("resurse/1.jpg");
+}
+nav ul {
+	margin: 0px;
+	padding: 5px 0px 5px 30px;	
+}
+
+nav li {
+	display: inline;
+	margin-right: 40px;	
+}
+
+nav li a {
+	color: #d98686;
+	margin-right: 40px;	
+}
+
+nav li a:hover {
+	color: #c31515;
+}
