@@ -1,7 +1,41 @@
 body{
 color:#5d49dd;
-background-color:#fff;
+background-color: #fff;
 background-image: url("resurse/1.jpg");
+background-position: left;
+background-size: cover;
+font-family: Georgia, times, serif;
+line-height: 1.4em;
+margin:40px;
+}
+
+.wrapper{
+width: auto;
+height: 2000px;
+margin:10px auto 20px auto;
+}
+header{
+width: auto;
+height: 100px;
+background-image: url("resurse/2.jpg");
+background-position:center;
+background-size:cover;
+}
+header h1{
+width: auto;
+height: 10px;
+background-position:center;
+text-align: center;
+}
+
+figure{
+background-color:#fff;
+background-position:center;
+height: auto;
+columns: 100px 3;
+grid-gap: 0px;
+text-align:center;
+border-radius: 100px;
 }
 nav ul {
 	margin: 0px;
